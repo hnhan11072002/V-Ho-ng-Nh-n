@@ -1,0 +1,5 @@
+{
+  "name": "AI Hug Video Generator",
+  "description": "Create a unique video of one person hugging another from behind, generated from two separate images using AI. The animation shows the person from the right image moving behind the person from the left image to embrace them.",
+  "requestFramePermissions": []
+}
